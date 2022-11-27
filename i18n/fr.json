@@ -1,0 +1,18 @@
+{
+  "home_page": {
+    "plateform_1": "Dites-nous quel service recherchez-vous",
+    "plateform_2": "Dites-nous quel service recherchez-vous.",
+    "home_page_plateform_1": "Dites-nous quel service recherchez-vous",
+    "home_page_plateform_2": "Trouvez les meilleurs artisans, bricoleurs et autres à travers le monde."
+  },
+  "sub-categories_page": {
+    "sub-categories_page_plateform_1": "Services disponibles"
+  },
+  "profile": {
+    "profile_crm_1": "Profile"
+  },
+  "profile_page": {
+    "profile_page_crm_1": "Profile",
+    "profile_page_crm_2": "Aperçu"
+  }
+}

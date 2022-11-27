@@ -1,0 +1,18 @@
+{
+  "home_page": {
+    "plateform_1": "Sagen Sie uns, welchen Service Sie suchen",
+    "plateform_2": "Sagen Sie uns, welchen Service Sie suchen.",
+    "home_page_plateform_1": "Sagen Sie uns, welchen Service Sie suchen",
+    "home_page_plateform_2": "Finden Sie die besten Handwerker, Handwerker und andere auf der ganzen Welt."
+  },
+  "sub-categories_page": {
+    "sub-categories_page_plateform_1": "Verfügbare Dienste"
+  },
+  "profile": {
+    "profile_crm_1": "Profil"
+  },
+  "profile_page": {
+    "profile_page_crm_1": "Profil",
+    "profile_page_crm_2": "Überblick"
+  }
+}
